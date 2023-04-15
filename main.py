@@ -29,7 +29,6 @@ app.include_router(
     tags=["auth"],
 )
 
-# Hey!
 # fake_users = [
 #     {"id": 1, "role": "admin", "name": "Bob"},
 #     {"id": 2, "role": "investor", "name": "John"},
