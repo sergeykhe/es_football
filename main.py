@@ -39,9 +39,6 @@ app.include_router(
 # ]
 #
 #
-# class DegreeType(Enum):
-#     newbie = 'newbie'
-#     expert = 'expert'
 #
 #
 # class Degree(BaseModel):
